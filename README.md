@@ -11,9 +11,6 @@
 
 - 📫 메일들 **2023003@bssm.hs.kr | bssmkangsiwoo@gmail.com**
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

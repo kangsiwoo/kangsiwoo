@@ -65,4 +65,10 @@
 <h4>6. ai</h4>
   <!--  python  -->
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <br>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kangsiwoo&" alt="kangsiwoo" /></p>
+  <br>
+  <br>
+  <h3>📕VELOG</h3>
+  <!-- VELOG:START -->
+  <!-- VELOG:END -->

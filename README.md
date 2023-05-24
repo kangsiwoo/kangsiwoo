@@ -70,6 +70,6 @@
   <br>
   <br>
   <h3>📕VELOG</h3>
-  <a herf="https://velog.io/@kangsiwoo"><h4>kangsiwoo</h4></a>
+  <a href="https://velog.io/@kangsiwoo"><h4>kangsiwoo</h4></a>
   <!-- VELOG:START -->
   <!-- VELOG:END -->

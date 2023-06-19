@@ -2,6 +2,6 @@
 <h3 align="center">고등학교 목표 : 풀스택 임베디드 개발자</h3>
 <div align="center">
   <h3>📕VELOG</h3>
-  <a href="https://velog.io/@kangsiwoo">kangsiwoo</a>
-  <p><a href="https://music.apple.com/kr/playlist/power-programing/pl.u-RRbVvlJumJkpo6J?l=en">Play List</a></p>
+  <a href="https://velog.io/@kangsiwoo">kangsiwoo</a><br><br>
+  <p><a href="https://music.apple.com/kr/playlist/power-programing/pl.u-RRbVvlJumJkpo6J?l=en">Music Play List</a></p>
 </div>

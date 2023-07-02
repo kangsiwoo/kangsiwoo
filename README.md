@@ -3,5 +3,5 @@
 <div align="center">
   <h3>📕VELOG</h3>
   <a href="https://velog.io/@kangsiwoo">kangsiwoo</a><br><br>
-  <p><a href="https://music.apple.com/kr/playlist/power-programing/pl.u-RRbVvlJumJkpo6J?l=en">Music Play List</a></p>
+  <p><a href="https://music.apple.com/kr/playlist/power-programing/pl.u-RRbVvlJumJkpo6J?l=en">My Music Play List</a></p>
 </div>
